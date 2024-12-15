@@ -5,7 +5,7 @@ import java.awt.Color;
  * The program recieves two command-line arguments: a string representing the name
  * of the PPM file of an image, and the number of morphing steps (an int). 
  * For example, to morph the thor image into its grayscaled version in 50 steps, use:
- * java Editor3 thor.ppm 50
+ * java Editor4 thor.ppm 50
  * Note: There is no need to scale the target image to the size of the source
  * image, since Runigram.morph performs this action.
  */
